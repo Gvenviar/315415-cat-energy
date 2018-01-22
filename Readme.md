@@ -1,7 +1,7 @@
-# Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Войтов](https://up.htmlacademy.ru/adaptive/13/user/315415).
-* Наставник: `Неизвестно`.
+* Наставник: `Мурат Баркинхоев`.
 
 ---
 
